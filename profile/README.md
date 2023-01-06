@@ -1,11 +1,14 @@
-# ![PrimarySystems (2021_08_31 13_03_11 UTC)](https://user-images.githubusercontent.com/106625352/173837370-d9b5b55b-68e2-4f06-ab98-c2902b2a72cd.jpg)  PriSysDev GitHub Repository
+<p align="center" width="100%">
+    <img width="50%" src="https://user-images.githubusercontent.com/106625352/173837370-d9b5b55b-68e2-4f06-ab98-c2902b2a72cd.jpg"> 
+</p>
 
+PriSysDev GitHub Repository 
 -----
 -----
-# PriSysDev serves as a centralized repository of code and scripts for the Primary Systems IT team. 
+## PriSysDev serves as a centralized repository of code and scripts for the Primary Systems IT team. 
 
 
-## The purpose of these repositories is to improve collaboration between team members, guarentuee a main version of code, enable branching/forking/version control, and to improve bug and issue tracking. 
+### The purpose of these repositories is to improve collaboration between team members, guarentuee a main version of code, enable branching/forking/version control, and to improve bug and issue tracking. 
 
 ----------
 --------
